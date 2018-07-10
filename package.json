@@ -28,7 +28,7 @@
     "dash-components-archetype": "^0.2.11",
     "moment": "^2.20.1",
     "prop-types": "^15.6.0",
-    "radium": "^0.19.4",
+    "radium": "^0.24.1",
     "ramda": "^0.24.1",
     "rc-slider": "^8.3.1",
     "react-addons-shallow-compare": "^15.6.0",
